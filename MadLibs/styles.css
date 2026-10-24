@@ -1,0 +1,42 @@
+
+
+h1 {
+    color:midnightblue;
+    text-align: center;
+    font-size: 100;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+label {
+    text-align: center;
+    font-size: medium;
+    color: midnightblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+input {
+    border: 2px solid rgb(0, 4, 84);
+    border-radius: 8px;
+    width: 40%;
+    padding: 12px;
+    margin: 10px 0;
+    box-sizing: border-box;
+}
+button {
+    border: 2px solid rgb(0, 4, 84);
+    border-radius: 8px;
+    width: 40%;
+    padding: 12px;
+    margin: 10px 0;
+    box-sizing: border-box;
+}
+body {
+    background: linear-gradient(90deg, #b096ff, #ff92bc);
+}
+.story {
+    font-size: medium;
+    text-align: center; 
+    vertical-align: 40%;
+}
+.restart {
+    display: block;
+    margin: 20px auto;
+}
